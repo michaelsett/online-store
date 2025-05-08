@@ -113,7 +113,11 @@ Store purchase history in a file
 
 Add categories and filtering
 
+<<<<<<< HEAD
 Implement a basic GUI using JavaFX
+=======
+Implement a basic GUI 
+>>>>>>> a2c346842c8f83a7550ca6569f8e11ad20cf423c
 
 Resources
 
