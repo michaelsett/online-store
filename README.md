@@ -52,16 +52,6 @@ Java 17
 
 Built-in Java utilities (Scanner, ArrayList, File)
 
-Demo Screenshots
-
-⚠️ Please capture and insert screenshots after running your app:
-
-Home screen (main menu)
-
-Product display
-
-Invalid product input (error message)
-
 Interesting Code Highlight
 
 The checkOut() Method
